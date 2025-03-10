@@ -10,3 +10,8 @@ Added headers to file
 number = 15
 is_odd = (15 % 2) != 0
 ```
+
+- [ ] Learn GitHub
+- [ ] Learn Development
+- [ ] Deploy first app
+- [ ] Finish University
